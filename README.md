@@ -1,5 +1,5 @@
 ##### Welcome to visit:
-GitHub: https://github.com/codezhanghao/1
+GitHub: https://github.com/codezhanghao/
 
 Blog: www.codezhang.com
 
