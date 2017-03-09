@@ -4,7 +4,6 @@ GitHub: https://github.com/codezhanghao/
 Blog: www.codezhang.com
 
 ---
-# jekins
 
 # RecyclerView-Wangyi
 高仿网易新闻客户端
